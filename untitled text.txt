@@ -6,3 +6,5 @@ Mara change add text
 >>>>>>> Stashed changes
 
 change stuff
+
+change more stuff
